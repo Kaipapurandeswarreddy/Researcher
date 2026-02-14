@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+venv/
+env/
+.venv/
+
+# Environment
+.env
+.env.local
+
+# Node
+node_modules/
+.next/
+.pnp/
+.pnp.js
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Output
+outputs/
+my-docs/
+data/
+
+# Agent
+.agent/
+.gemini/
